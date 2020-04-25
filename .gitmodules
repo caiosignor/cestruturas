@@ -1,0 +1,3 @@
+[submodule "lista/exemplo1/lib/clist"]
+	path = lista/exemplo1/lib/clist
+	url = https://github.com/caiosignor/clist.git
